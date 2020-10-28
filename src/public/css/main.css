@@ -1,0 +1,34 @@
+/* Main */
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+main div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    margin: 1rem;
+
+    background-color: white;
+}
+
+main div h3{
+    margin: 2rem;
+}
+main div p{
+    margin: 2rem;
+}
+main div a{
+
+    margin: 2rem;
+    padding: .5rem 4rem;
+    border-radius: .5rem;
+
+    background-color:gray;
+
+    text-decoration: none;
+    color: white;
+}
