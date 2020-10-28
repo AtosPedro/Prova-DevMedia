@@ -72,6 +72,15 @@
     }
 
 
+    main div a{
+        transition: 200ms;
+    }
+    main div a:hover{
+        background-color: rgb(78, 78, 78);
+        
+    }
+
+
     /*Footer*/
 
 }
